@@ -33,5 +33,16 @@ Desafio p criar esquema para Banco de dados de um E-commerce
  - O pedido pode ser cancelado
  
  ### Narrativa – Fornecedor & estoque
+ 
+ ### Refinando
+ 
+ - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações
+ 
+ - Pagamento – Pode ter cadastrado mais de uma forma de pagamento
+ 
+ - Entrega – Possui status e código de rastreio
+ 
+
+
 
 
